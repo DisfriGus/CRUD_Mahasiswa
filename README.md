@@ -9,3 +9,12 @@ Sebelum Anda memulai, pastikan Anda telah menginstal:
 - [npm](https://www.npmjs.com/) - manajer paket JavaScript yang digunakan untuk mengelola dependensi proyek.
 
 ## Instalasi
+1. Masuk ke direktori proyek:
+-cd nama-proyek
+2. Instal dependensi dengan menjalankan perintah:
+-npm install
+
+## Menjalankan Proyek
+- jalankan server
+- npm run dev
+- Proyek Anda akan dijalankan dan dapat diakses melalui peramban web di http://localhost:5173/.
